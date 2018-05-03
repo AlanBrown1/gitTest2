@@ -3,3 +3,4 @@ This repo is used to test the connection between git client in my lab's computer
 
 a new line.
 another new line.
+the third new line.
