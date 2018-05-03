@@ -9,3 +9,5 @@ creating a new branch named dev and commit to it.
 
 a new feature here, do you get it ?
 a new line in feature2.
+
+a new branch newb.
