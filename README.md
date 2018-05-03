@@ -6,3 +6,5 @@ another new line.
 the third new line.
 
 creating a new branch named dev and commit to it.
+
+new branch feature1.
