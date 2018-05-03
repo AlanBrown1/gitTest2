@@ -7,4 +7,4 @@ the third new line.
 
 creating a new branch named dev and commit to it.
 
-master branch.
+a new feature here.
