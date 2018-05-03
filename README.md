@@ -8,3 +8,4 @@ the third new line.
 creating a new branch named dev and commit to it.
 
 a new feature here, do you get it ?
+a new line in master.
